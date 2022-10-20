@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Mary Auma 
+A passionate software developer  from Nairobi Kenya 
 
 <!--
 **r00t254/r00t254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
