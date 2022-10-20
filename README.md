@@ -1,12 +1,16 @@
+# Tittle
+
 ### Hi there 👋 I'm Mary Auma 
+
+# Subtitle
 A passionate software developer  from Nairobi Kenya 
 
-<!--
-**r00t254/r00t254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m  a graduate from Moringa School  and currently base in kenya
 
+- You can view my profile 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m  a graduate from Moringa School  and currently base in kenya 
+- 🔭you can contact me at 
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
