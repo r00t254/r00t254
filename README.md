@@ -9,11 +9,19 @@ A passionate software developer  from Nairobi Kenya
 
 - 💬 You can view my profile 
 
+- 👨‍💻 All of my projects are available at [r00t254.github.io](r00t254.github.io)
+
 - 🔭 currently learning Angular for more skills
 
 -  📫you can contact me at root254.mary@gmail.com
 
 -  👯 I'm looking for collaborate on  API's 
+- 💬 Ask me about **Html, Css, Javascript ,Python & Django**
+
+- 📄 Know about my experiences [r00t254.github.io](r00t254.github.io)
+
+- ⚡ Fun fact **Smilling is my passion**
+
 
 # Skills
 
