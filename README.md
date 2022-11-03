@@ -5,6 +5,13 @@
 # Subtitle
 A passionate software developer  from Nairobi Kenya 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheilah-ndiema&label=Profile%20views&color=0e75b6&style=flat" alt="r00t254" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r00t254&theme=onedark&title=Repositories,Commit,PullRequest" alt="r00t254" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/r00t254" target="blank"><img src="https://img.shields.io/twitter/follow/r00t254?logo=twitter&style=for-the-badge" alt="r00t254" /></a> </p>
+
+
 - 🌱 I’m  a graduate from Moringa School  and currently base in kenya
 
 - 💬 You can view my profile 
@@ -75,7 +82,7 @@ A passionate software developer  from Nairobi Kenya
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=r00t254&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=radical" alt="r00t254" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=r00t254&show_icons=true&locale=en&include_all_commits=true&theme=radical" alt="Mary Clara" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=r00t254&show_icons=true&locale=en&include_all_commits=true&theme=radical" alt="r00t254" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mary-clara&include_all_commits=true&theme=radical" alt="Mary-Clara" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=r00t254&include_all_commits=true&theme=radical" alt="r00t254" /></p>
 
