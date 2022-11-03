@@ -33,12 +33,7 @@ A passionate software developer  from Nairobi Kenya
 # Skills
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
+<table><tr><td valign="top" width="33%">  
  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -48,9 +43,6 @@ A passionate software developer  from Nairobi Kenya
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 /a>  
 </div>
-
-</td><td valign="top" width="33%">
-
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -92,9 +84,15 @@ A passionate software developer  from Nairobi Kenya
 </a>
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=r00t254&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=radical" alt="r00t254" /></p>
+ ## Github Status
+ 
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=r00t254&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=radical" alt="r00t254" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=r00t254&show_icons=true&locale=en&include_all_commits=true&theme=radical" alt="r00t254" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=r00t254&include_all_commits=true&theme=radical" alt="r00t254" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=r00t254&include_all_commits=true&theme=radical" alt="r00t254" /></p> -->
+ 
+ ![](https://github-readme-stats.vercel.app/api?username=WayneMusungu&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WayneMusungu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=WayneMusungu&theme=radical&hide_border=false)
 
