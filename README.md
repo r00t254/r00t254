@@ -65,9 +65,9 @@ A passionate software developer  from Nairobi Kenya
 </a>
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheilah-ndiema&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=radical" alt="sheilah-ndiema" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=r00t254&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=radical" alt="r00t254" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=sheilah-ndiema&show_icons=true&locale=en&include_all_commits=true&theme=radical" alt="Mary Clara" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=r00t254&show_icons=true&locale=en&include_all_commits=true&theme=radical" alt="Mary Clara" /></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mary-clara&include_all_commits=true&theme=radical" alt="Mary-Clara" /></p>
 
