@@ -9,7 +9,7 @@ A passionate software developer  from Nairobi Kenya
 
 - 💬 You can view my profile 
 
-- 👨‍💻 All of my projects are available at [r00t254.github.io](r00t254.github.io)
+- 👨‍💻 All of my projects are available at [r00t254.github.com](r00t254.github.com)
 
 - 🔭 currently learning Angular for more skills
 
@@ -18,7 +18,7 @@ A passionate software developer  from Nairobi Kenya
 -  👯 I'm looking for collaborate on  API's 
 - 💬 Ask me about **Html, Css, Javascript ,Python & Django**
 
-- 📄 Know about my experiences [r00t254.github.io](r00t254.github.io)
+- 📄 Know about my experiences [r00t254.github.com](r00t254.github.com)
 
 - ⚡ Fun fact **Smilling is my passion**
 
