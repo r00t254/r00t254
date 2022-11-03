@@ -36,7 +36,7 @@ A passionate software developer  from Nairobi Kenya
 <table><tr><td valign="top" width="33%">
 
 
-<!-- 
+
 <!-- ### Frontend  
 <div align="center">  
 <!--  
@@ -56,7 +56,7 @@ A passionate software developer  from Nairobi Kenya
 
 </td><td valign="top" width="33%">
 
- --> -->
+ -->
 
 ## Connect with me  
 <div align="center">
