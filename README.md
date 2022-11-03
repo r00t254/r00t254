@@ -65,22 +65,9 @@ A passionate software developer  from Nairobi Kenya
 </a>
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sheilah-ndiema&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=radical" alt="sheilah-ndiema" /></p>
 
-</a>  
-</div>  
-  
+<p><img src="https://github-readme-stats.vercel.app/api?username=sheilah-ndiema&show_icons=true&locale=en&include_all_commits=true&theme=radical" alt="Mary Clara" /></p>
 
-<!-- <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mary-clara&include_all_commits=true&theme=radical" alt="Mary-Clara" /></p>
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>   -->
-  
-
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
