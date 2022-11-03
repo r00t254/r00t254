@@ -9,7 +9,7 @@ A passionate software developer  from Nairobi Kenya
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r00t254&theme=onedark&title=Repositories,Commit,PullRequest" alt="r00t254" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/r00t254" target="blank"><img src="https://img.shields.io/twitter/follow/r00t254?logo=twitter&style=for-the-badge" alt="r00t254" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Mary-Clara" target="blank"><img src="https://img.shields.io/twitter/follow/r00t254?logo=twitter&style=for-the-badge" alt="Mary-Clara" /></a> </p>
 
 
 - 🌱 I’m  a graduate from Moringa School  and currently base in kenya
