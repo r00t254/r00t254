@@ -40,7 +40,7 @@ A passionate software developer  from Nairobi Kenya
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-/a>  
+
 </div>
 
 <p align="left">
@@ -77,13 +77,6 @@ A passionate software developer  from Nairobi Kenya
 </a>
 <a href="https://www.facebook.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
- ## Github Status
- 
-<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=r00t254&show_icons=true&locale=en&layout=compact&include_all_commits=true&theme=radical" alt="r00t254" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=r00t254&show_icons=true&locale=en&include_all_commits=true&theme=radical" alt="r00t254" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=r00t254&include_all_commits=true&theme=radical" alt="r00t254" /></p> -->
  
  ![](https://github-readme-stats.vercel.app/api?username=r00t254&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r00t254&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
