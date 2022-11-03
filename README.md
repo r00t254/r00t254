@@ -9,7 +9,7 @@ A passionate software developer  from Nairobi Kenya
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r00t254&theme=onedark&title=Repositories,Commit,PullRequest" alt="r00t254" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Mary-Clara" target="blank"><img src="https://img.shields.io/twitter/follow/r00t254?logo=twitter&style=for-the-badge" alt="Mary-Clara" /></a> </p>
+<p align="left"> <a href="https://twitter.com/r00t254" target="blank"><img src="https://img.shields.io/twitter/follow/r00t254?logo=twitter&style=for-the-badge" alt="r00t254" /></a> </p>
 
 
 - 🌱 I’m  a graduate from Moringa School  and currently base in kenya
@@ -51,7 +51,12 @@ A passionate software developer  from Nairobi Kenya
 
 </td><td valign="top" width="33%">
 
-### Backend  
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <div align="center">  
 
 </td><td valign="top" width="33%">
